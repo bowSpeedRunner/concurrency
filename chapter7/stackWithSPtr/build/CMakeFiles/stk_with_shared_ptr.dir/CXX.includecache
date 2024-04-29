@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter7/stackWithSPtr/src/lock_free_stk_with_Sptr.hpp
+memory
+-
+atomic
+-
+
+/home/yjh/concurrency/chapter7/stackWithSPtr/src/test.cpp
+lock_free_stk_with_Sptr.hpp
+/home/yjh/concurrency/chapter7/stackWithSPtr/src/lock_free_stk_with_Sptr.hpp
+iostream
+-
+vector
+-
+thread
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror -g -pthread   CMakeFiles/test.dir/src/main.cpp.o CMakeFiles/test.dir/src/webServer.cpp.o  -o test 

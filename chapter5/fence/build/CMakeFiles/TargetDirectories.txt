@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter5/fence/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter5/fence/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter5/fence/build/CMakeFiles/fence.dir

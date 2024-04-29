@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter5/consume/src/consume.cpp
+atomic
+-
+string
+-
+thread
+-
+assert.h
+-
+iostream
+-
+chrono
+-
+

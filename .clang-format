@@ -1,0 +1,19 @@
+# Usage:
+#   Using clang-format to reformat a file:
+#     clang-format -i -style=Google <file>
+#   Options: https://clang.llvm.org/docs/ClangFormat.html
+
+BasedOnStyle: Google
+ColumnLimit: 120
+SortIncludes: false
+
+# poniter aligment
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+# single line layout
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false

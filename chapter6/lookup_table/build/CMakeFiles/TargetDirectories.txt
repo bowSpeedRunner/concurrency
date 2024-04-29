@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter6/lookup_table/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter6/lookup_table/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter6/lookup_table/build/CMakeFiles/ts_map.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/relaxed.dir/src/relaxed.cpp.o  -o relaxed 

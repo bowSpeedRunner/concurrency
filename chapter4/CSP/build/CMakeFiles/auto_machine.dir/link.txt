@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror   CMakeFiles/auto_machine.dir/src/drive.cpp.o  -o auto_machine  -lpthread -latomic 

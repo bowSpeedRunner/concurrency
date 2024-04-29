@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter4/CSP/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter4/CSP/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter4/CSP/build/CMakeFiles/auto_machine.dir

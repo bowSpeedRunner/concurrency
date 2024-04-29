@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter6/lookup_table/src/test.cpp
+thSafeMap.hpp
+/home/yjh/concurrency/chapter6/lookup_table/src/thSafeMap.hpp
+thread
+-
+iostream
+-
+assert.h
+-
+
+/home/yjh/concurrency/chapter6/lookup_table/src/thSafeMap.hpp
+map
+-
+mutex
+-
+vector
+-
+algorithm
+-
+shared_mutex
+-
+hashtable.h
+-
+utility
+-
+list
+-
+

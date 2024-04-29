@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/src/lock_free_stk_with_hp.hpp
+memory
+-
+someFuncImpl.h
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/src/someFuncImpl.h
+
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/src/someFuncImpl.h
+atomic
+-
+thread
+-
+functional
+-
+
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/src/test.cpp
+iostream
+-
+lock_free_stk_with_hp.hpp
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/src/lock_free_stk_with_hp.hpp
+vector
+-
+

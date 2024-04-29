@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter7/stackWithSPtr/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter7/stackWithSPtr/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter7/stackWithSPtr/build/CMakeFiles/stk_with_shared_ptr.dir

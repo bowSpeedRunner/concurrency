@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter6/threadSafe_stack/src/test.cpp
+thSafeStk.hpp
+/home/yjh/concurrency/chapter6/threadSafe_stack/src/thSafeStk.hpp
+iostream
+-
+vector
+-
+thread
+-
+
+/home/yjh/concurrency/chapter6/threadSafe_stack/src/thSafeStk.hpp
+exception
+-
+memory
+-
+mutex
+-
+stack
+-
+

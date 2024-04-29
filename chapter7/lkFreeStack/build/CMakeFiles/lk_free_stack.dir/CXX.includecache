@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter7/lkFreeStack/src/lock_free_stack.hpp
+memory
+-
+atomic
+-
+
+/home/yjh/concurrency/chapter7/lkFreeStack/src/test.cpp
+lock_free_stack.hpp
+/home/yjh/concurrency/chapter7/lkFreeStack/src/lock_free_stack.hpp
+iostream
+-
+vector
+-
+thread
+-
+

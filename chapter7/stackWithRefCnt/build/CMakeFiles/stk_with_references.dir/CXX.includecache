@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yjh/concurrency/chapter7/stackWithRefCnt/src/lock_free_stack_with_refCnts.hpp
+memory
+-
+atomic
+-
+
+/home/yjh/concurrency/chapter7/stackWithRefCnt/src/test.cpp
+lock_free_stack_with_refCnts.hpp
+/home/yjh/concurrency/chapter7/stackWithRefCnt/src/lock_free_stack_with_refCnts.hpp
+iostream
+-
+vector
+-
+thread
+-
+future
+-
+

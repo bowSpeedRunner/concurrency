@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter7/lkFreeStack/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter7/lkFreeStack/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter7/lkFreeStack/build/CMakeFiles/lk_free_stack.dir

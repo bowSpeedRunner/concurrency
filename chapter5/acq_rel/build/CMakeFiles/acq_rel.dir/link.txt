@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/acq_rel.dir/src/acq_rel.cpp.o  -o acq_rel 

@@ -1,0 +1,3 @@
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/build/CMakeFiles/rebuild_cache.dir
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/build/CMakeFiles/edit_cache.dir
+/home/yjh/concurrency/chapter7/stackWithHazrdPtr/build/CMakeFiles/stk_with_hazardPtr.dir
