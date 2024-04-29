@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/seq_cst.dir/src/seq_cst.cpp.o  -o seq_cst 

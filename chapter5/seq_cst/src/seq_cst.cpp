@@ -43,5 +43,6 @@ int main() {
   c.join();
   d.join();
   assert(z.load() != 0);
+  std::cout << "FINISH" << std::endl;
   std::cin.get();
 }

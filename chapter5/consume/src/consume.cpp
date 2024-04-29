@@ -17,6 +17,7 @@ void create_x() {
   x->s = "hello";
   a.store(99, std::memory_order_relaxed);
   p.store(x, std::memory_order_release);
+  std::cout << "create finish!" << std::endl;
 }
 
 void use_x() {
@@ -27,6 +28,7 @@ void use_x() {
   assert(x->i == 42);
   assert(x->s == "hello");
   assert(a.load(std::memory_order_relaxed) == 99);
+  std::cout << "use finish!" << std::endl;
 }
 
 int main() {

@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -g -fsanitize=address -g   CMakeFiles/lock_free_queue.dir/src/test.cpp.o  -o lock_free_queue  -lpthread -latomic 

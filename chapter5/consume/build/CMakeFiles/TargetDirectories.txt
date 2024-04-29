@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter5/consume/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter5/consume/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter5/consume/build/CMakeFiles/consume.dir

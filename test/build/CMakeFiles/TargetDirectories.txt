@@ -1,3 +1,0 @@
-/home/yjh/concurrency/test/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/test/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/test/build/CMakeFiles/test.dir

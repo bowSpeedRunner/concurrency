@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter4/future/package_task/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter4/future/package_task/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter4/future/package_task/build/CMakeFiles/packaged_task.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/threadSafe_queue.dir/src/test.cpp.o CMakeFiles/threadSafe_queue.dir/src/threadSafe_queue.cpp.o  -o threadSafe_queue 

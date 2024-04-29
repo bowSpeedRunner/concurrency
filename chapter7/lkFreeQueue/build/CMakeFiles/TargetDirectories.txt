@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter7/lkFreeQueue/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter7/lkFreeQueue/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter7/lkFreeQueue/build/CMakeFiles/lock_free_queue.dir

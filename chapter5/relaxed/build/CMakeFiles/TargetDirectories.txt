@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter5/relaxed/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter5/relaxed/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter5/relaxed/build/CMakeFiles/relaxed.dir

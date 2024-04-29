@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/dns_cahce.dir/src/test_dns_cache.cpp.o  -o dns_cahce 

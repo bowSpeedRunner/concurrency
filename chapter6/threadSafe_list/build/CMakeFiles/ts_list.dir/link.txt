@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/ts_list.dir/src/test.cpp.o  -o ts_list 

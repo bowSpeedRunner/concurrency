@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/stk_with_shared_ptr.dir/src/test.cpp.o  -o stk_with_shared_ptr 

@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -pthread   CMakeFiles/lk_free_stack.dir/src/test.cpp.o  -o lk_free_stack 

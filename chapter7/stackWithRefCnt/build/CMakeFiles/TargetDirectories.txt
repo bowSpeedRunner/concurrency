@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter7/stackWithRefCnt/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter7/stackWithRefCnt/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter7/stackWithRefCnt/build/CMakeFiles/stk_with_references.dir

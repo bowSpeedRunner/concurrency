@@ -28,5 +28,6 @@ int main() {
   a.join();
   b.join();
   assert(z.load() != 0);
+  std::cout << "TRUE!" << std::endl;
   std::cin.get();
 }

@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter3/WR_mutex/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter3/WR_mutex/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter3/WR_mutex/build/CMakeFiles/dns_cahce.dir

@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter6/threadSafe_list/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter6/threadSafe_list/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter6/threadSafe_list/build/CMakeFiles/ts_list.dir

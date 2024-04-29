@@ -1,3 +1,0 @@
-/home/yjh/concurrency/chapter4/future/async/build/CMakeFiles/rebuild_cache.dir
-/home/yjh/concurrency/chapter4/future/async/build/CMakeFiles/edit_cache.dir
-/home/yjh/concurrency/chapter4/future/async/build/CMakeFiles/async.dir

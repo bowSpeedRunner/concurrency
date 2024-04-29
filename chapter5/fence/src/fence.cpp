@@ -31,5 +31,6 @@ int main() {
   a.join();
   b.join();
   assert(z.load() != 0);
+  std::cout << "FINISH!" << std::endl;
   std::cin.get();
 }
